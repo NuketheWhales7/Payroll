@@ -1,2 +1,2 @@
 # Payroll
-a payroll hardcoded in JAVA
+A payroll hardcoded in JAVA
